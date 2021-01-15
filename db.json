@@ -1,6 +1,7 @@
 {
   "VAST": {
     "version": "3.0",
+    "Error": null,
     "Ad": [
       {
         "id": "1233",
@@ -49,7 +50,7 @@
                     "scalable": "1",
                     "maintainAspectRatio": "1",
                     "codec": "0",
-                    "#cdata-section": "https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4"
+                    "Value": "https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4"
                   }
                 }
               }
@@ -105,7 +106,7 @@
                     "scalable": "1",
                     "maintainAspectRatio": "1",
                     "codec": "0",
-                    "#cdata-section": "https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4"
+                    "Value": "https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4"
                   }
                 }
               }
